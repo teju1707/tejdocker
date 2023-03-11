@@ -1,2 +1,2 @@
-FROM ubuntu
-RUN apt update -y
+FROM centos:centos7
+RUN yum install git -y
