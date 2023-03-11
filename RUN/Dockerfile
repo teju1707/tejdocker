@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN apt install tree -y
+RUN apt update -y
