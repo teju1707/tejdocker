@@ -2,3 +2,14 @@ FROM almalinux
 LABEL AUTHOR="RAMANI"\
       RAMANIAGE="60"\
       RAMANICITY="KAKINADAKAJA"
+
+
+
+
+
+
+
+
+
+
+
