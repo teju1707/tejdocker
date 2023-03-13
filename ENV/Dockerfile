@@ -1,0 +1,3 @@
+FROM almalinux
+ENV AUTHOR="TEJU"\
+    FRIEND="RAMANI"
