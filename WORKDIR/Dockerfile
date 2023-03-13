@@ -1,5 +1,4 @@
 FROM almalinux
-#WORKDIR /teju
-#RUN touch ramanipandi.txt
-RUN cd /tmp
+WORKDIR /teju
+RUN touch ramanipandi.txt
 RUN touch bye.txt
